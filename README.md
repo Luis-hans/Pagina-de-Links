@@ -47,7 +47,8 @@ cd Pagina-de-Links
 
 ## 📚 Aprendizados
 
-Uso do HTML semântico., Uso do Flexbox do CSS.
+- [x] Uso do HTML semântico.
+- [x] Uso do Flexbox do CSS.
 
 ---
 
